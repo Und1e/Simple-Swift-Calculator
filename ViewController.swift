@@ -2,9 +2,6 @@
 //  ViewController.swift
 //  Simple Swift Calculator
 //
-//  Created by Dan Underwood on 08/02/2015.
-//  Copyright (c) 2015 Und1e. All rights reserved.
-//
 
 import UIKit
 
